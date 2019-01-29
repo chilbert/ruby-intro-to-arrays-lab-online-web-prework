@@ -24,5 +24,5 @@ end
 
 def last_element_with_array_methods(array)
   last_country = array.last
-  
+
 end
