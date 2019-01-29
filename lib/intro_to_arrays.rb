@@ -9,5 +9,3 @@ end
 def first_element(array)
   my_first_element = array[0]
 end
-
-
